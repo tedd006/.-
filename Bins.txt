@@ -1,0 +1,179 @@
+
+BINS TO TEST: 
+546616
+546632
+524258
+459945
+459954
+434257
+434258
+534258
+534257
+473702
+473703
+427088
+426428
+601100
+601129
+601139
+601149
+546632
+442738
+440066
+434256
+443044
+557567
+480213
+461046
+510915 
+408687 
+449247 
+443279 
+401106 
+499140 
+
+
+NON VBV BINS
+BIN: 400022
+Country: US
+Vendor: VISA
+Type: DEBIT
+Level: CLASSIC
+Bank: NAVY F.C.U.
+
+BIN: 430023
+Card Brand: VISA
+Issuing Organizaion: WORLDS FOREMOST BANK
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: CLASSIC
+Issuing Country: UNITED STATES
+
+BIN: 438949
+Card Brand: VISA
+Issuing Organizaion: COMMERCE BANCSHARES, INC.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 488893
+Card Brand: VISA
+Issuing Organizaion: FIA CARD SERVICES, N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 426429
+Card Brand: VISA
+Issuing Organizaion: BANK OF AMERICA, N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+480012
+Card Brand: VISA
+Issuing Organizaion: FIA CARD SERVICES, N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: GOLD PREMIUM
+Issuing Country: UNITED STATES
+
+BIN: 486236
+Card Brand: VISA
+Issuing Organizaion: CAPITAL ONE BANK (USA), N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 441297
+Card Brand: VISA
+Issuing Organizaion: FIRST NATIONAL BANK OF OMAHA
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 401398
+Card Brand: VISA
+Issuing Organizaion: U.S. BANK NATIONAL ASSOCIATION ND
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 426428
+Card Brand: VISA
+Issuing Organizaion: FIA CARD SERVICES, N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 416621
+Card Brand: VISA
+Issuing Organizaion: WORLD FINANCIAL NETWORK NATIONAL BANK
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: CLASSIC
+Issuing Country: UNITED STATES
+
+BIN: 431307
+Card Brand: VISA
+Issuing Organizaion: FIA CARD SERVICES, N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: SIGNATURE
+Issuing Country: UNITED STATES
+
+BIN: 441297
+Card Brand: VISA
+Issuing Organizaion: FIRST NATIONAL BANK OF OMAHA
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES.
+
+non vbv bins
+
+414720
+414709
+434256
+434258
+438857
+440066
+473702
+473703
+400022
+
+CHASE:
+426684
+438857
+414720
+438854
+414740
+426690
+
+CITI:
+410039
+542418
+
+BOA:
+414734
+440066
+402447
+410801
+============================
+Chase Bank 1-800-432-3117
+Full card number
+Zip code
+
+Citibank - 1-800-627-3999
+Full card number
+Last 4 digits of SSN
+
+Bank of America - 1-888-421-2110
+Full card number
+Zip code
+
+Capital One - 1-800-955-7070
+Full card number
+Last 4 digits of SSN
+
+This method revolves around the website para.co (http://para.co/) which allows you to give donations to people and it has low security, payouts are in USDC (Use cake wallet to exchange to BTC/LTC/ETH or whatever).
+STEP #1: Go to para.co (http://para.co/) on your LTE on computer (preferred) but phone works too. Click on “Start Earning”, and it will prompt you to type in a username. For this, you can do any username, just not anything that can be traced/linked back to you.
+STEP #2: After making the account, on the dashboard, do the 3 tasks it asks you to do 📷 (image #1). For the first wish, make it $10. For the social media accounts, make a new/fake youtube, twitter, and twitch account. Link all of em to para. After, add a random profile picture, it doesn’t really matter.
+STEP #3: AFTER socials and to-do list is linked and completed, go to “settings” on the left, VERIFY YOUR EMAIL (check inbox on your email).
+STEP #4: Click on “lots” on the left, and create 7 different wishes. Make sure the pricing varies, so even if you have a broke CC, you can atleast squeeze $15 or so out of it. My niche that I’m doing is “help me pay for my car insurance bill”, but yours can be whatever you want! (look at image #3 for example). EXTRA: On the “lots” section, you can scroll through it and sell anything else, such as subscriptions, digital products, etc.
+STEP #5: Go to “money” on the left, copy that link, and open it on a different device with a proxy/LTE. Use a CC to donate/gift something.

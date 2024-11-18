@@ -1,0 +1,500 @@
+
+yu alr kno igu
+
+BINS TO TEST: 
+546616
+546632
+524258
+459945
+459954
+434257
+434258
+534258
+534257
+473702
+473703
+427088
+426428
+601100
+601129
+601139
+601149
+546632
+442738
+440066
+434256
+443044
+557567
+480213
+461046
+510915 
+408687 
+449247 
+443279 
+401106 
+499140 
+
+
+NON VBV BINS
+BIN: 400022
+Country: US
+Vendor: VISA
+Type: DEBIT
+Level: CLASSIC
+Bank: NAVY F.C.U.
+
+BIN: 430023
+Card Brand: VISA
+Issuing Organizaion: WORLDS FOREMOST BANK
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: CLASSIC
+Issuing Country: UNITED STATES
+
+BIN: 438949
+Card Brand: VISA
+Issuing Organizaion: COMMERCE BANCSHARES, INC.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 488893
+Card Brand: VISA
+Issuing Organizaion: FIA CARD SERVICES, N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 426429
+Card Brand: VISA
+Issuing Organizaion: BANK OF AMERICA, N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+480012
+Card Brand: VISA
+Issuing Organizaion: FIA CARD SERVICES, N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: GOLD PREMIUM
+Issuing Country: UNITED STATES
+
+BIN: 486236
+Card Brand: VISA
+Issuing Organizaion: CAPITAL ONE BANK (USA), N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 441297
+Card Brand: VISA
+Issuing Organizaion: FIRST NATIONAL BANK OF OMAHA
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 401398
+Card Brand: VISA
+Issuing Organizaion: U.S. BANK NATIONAL ASSOCIATION ND
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 426428
+Card Brand: VISA
+Issuing Organizaion: FIA CARD SERVICES, N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES
+
+BIN: 416621
+Card Brand: VISA
+Issuing Organizaion: WORLD FINANCIAL NETWORK NATIONAL BANK
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: CLASSIC
+Issuing Country: UNITED STATES
+
+BIN: 431307
+Card Brand: VISA
+Issuing Organizaion: FIA CARD SERVICES, N.A.
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: SIGNATURE
+Issuing Country: UNITED STATES
+
+BIN: 441297
+Card Brand: VISA
+Issuing Organizaion: FIRST NATIONAL BANK OF OMAHA
+Card Type (DEBIT/CREDIT/CHARGE): CREDIT
+Card SubType: PLATINUM
+Issuing Country: UNITED STATES.
+
+non vbv bins
+
+414720
+414709
+434256
+434258
+438857
+440066
+473702
+473703
+400022
+
+CHASE:
+426684
+438857
+414720
+438854
+414740
+426690
+
+CITI:
+410039
+542418
+
+BOA:
+414734
+440066
+402447
+410801
+============================
+Chase Bank 1-800-432-3117
+Full card number
+Zip code
+
+Citibank - 1-800-627-3999
+Full card number
+Last 4 digits of SSN
+
+Bank of America - 1-888-421-2110
+Full card number
+Zip code
+
+Capital One - 1-800-955-7070
+Full card number
+Last 4 digits of SSN
+
+ sum free sites yk igu
+https://g-eazystore.com/
+https://www.danielwellington.com/us/
+https://www.imenapparel.com/
+https://www.theiconic.com.au/
+https://gnrmerch.com/
+https://www.overstock.com/
+https://www.vova.com
+https://www.frys.com/
+http://www.electronicexpress.com/
+https://www.mouser.com/
+https://www.shopclues.com/electronics-offers-zone.html
+https://www.jameco.com
+• https://www.outletpc.com/
+https://www.abt.com/
+https://www.buyradardetectors.com/
+• http://tcc-qatar.com/
+http://www.rugift.com/
+http://www.radarbusters.com/
+• https://www.Imc.com.au/
+https://griffintechnology.com/
+http://mag.divineo.cn/magento/
+http://shop.panasonic.com/
+http://www.world-import.com/
+https://www.tmart.com/
+https://www.controllerchaos.com/
+
+
+how to clone
+
+STEP 1:
+================
+
+Formatting
+
+================
+
+
+
+#1. Open jcopEnglish
+
+
+
+#2. Inserted your blank (Java Card J2A040 suggested) into your respective card reader.
+
+
+
+#3. Click “Delete JCOP Files”
+
+
+
+#4. Under “Script Type” select “Debit”
+
+
+
+#5. As a final step click on “Format JCOP Chip”
+
+
+
+#6. Once done, remove your blank. In this case, we'll be using a "Java Card J2A040” for maximum compatibility.
+
+
+
+Format is now complete.
+
+
+
+(Use jcopManager to ensure your card is unfused!)
+
+
+
+================================
+
+Part One Of The Cloning Process
+
+================================
+
+
+
+#1. Open the X2 2021 and click on the “IST Generate” option (top left).
+
+
+
+#2. Click on the “Read Card” button (middle bottom).
+
+
+
+#3. From the details that appear on the screen “Copy Track 2 Data.”
+
+
+
+#4. Click on the “EMV” option (located top left).
+
+
+
+#5. Paste that “Track 2” data and replace “D” located in the middle of “Track 2” with “=”
+
+
+
+#6. Insert “Card Holders Name” in its field it should be in “LAST NAME FIRST NAME” format (insert capital letters).
+
+
+
+#7. In “Application Label Field” insert “Card type” in our case it’s “VISA DEBIT” (insert capital letters).
+
+
+
+#8. In “Track 1 Discretion Data”, checkmark the box first then delete the “Default Value” that gets generated, then click on the “IST Generate” tab to copy “Track 1” then go back to the “EMV” tab and insert “Track 1” in its field there.
+
+
+
+#9. In the “Credit” field select your card type select “VISA” as our card was VISA (make sure to check track 1 again as changing the value in this section will replace Track 1 with a default value, so if that happens just replace that default value with Track 1 again) and in “Writer” field is “MCR200” as our hardware is MCR200.
+
+
+
+#10. In “AID” for “VISA” it’s “31010” for master it’s going to be “41010” so we typed “31010”
+
+
+
+#11. In “Country Code” insert your country code, ours is “0840” for the US.
+
+
+
+#12. In the “PIN” box insert your “Card/Dump Pin”
+
+
+
+#13. In “Currency Code” insert your “Card/Dump Currency Code” for USD its “0840”
+
+
+
+#14. In the “ARQC” section just “ignore that” for now.
+
+
+
+#15. For “Pref Name” we can leave that “as it is” for now.
+
+
+
+#16. For “Effective Date” click on the “Change Data” checkmark and then see the “Expiry Date” and Reverse it 4 years so for example if the expiry date of the card/dump is 28/02/2022 the “Effective Date” AKA Issue Date would be 28/02/2018 and you will insert it in “YYMMDD” format like “180228” inside “Effective Date”
+
+
+
+#17. For “Expiration Date” check the “IST Generate” tab and then see the “Expiry Date” on that page for example if the expiry date of the card/dump is 28/02/2022 you will go back to the “EMV tab” and insert it in “YYMMDD” format like “220228”
+
+
+
+#18. Now take out the “Original Test Card” and insert the “Java White Card” to clone in your “MCR200” (or otherwise applicable) hardware.
+
+
+
+#19. Now it’s time to burn the “White Java Card” by clicking on the “Credit” button located at the bottom right.
+
+
+
+#20. You will see once you click “Credit” the “MCR200” will start writing and once done it will say “Completed Job.”
+
+
+
+#21. Leave everything as it is! Step one is complete.
+
+
+
+================================
+
+Part Two Of The Cloning Process
+
+================================
+
+
+
+#22. Click on the “IST Generate” tab and then click on the “Read Card” button at the bottom.
+
+
+
+#23. You must see the same data as you did when you inserted the “Original Test Card” and clicked on “Read Card” in “Step 1 and 2” and if you see the same info then congrats, let’s get to the next step.
+
+
+
+#24. Now go to the “IST Generate” tab you see on top and click on the “Save” button that you see top right beside the “load” button, it will ask you to save that file with the “ZLD” extension so save it at the desktop with whatever name you like, Now you will click on “load” button and browse this file that you just saved with “ZLD” extension and it will say “Successfully Loaded Tree data from a file.”
+
+
+
+#25. Now on the same “IST Generate” page, it’s time to click on the “Generate IST” button that you see at the bottom and save that with whatever name, it will save with extension “IST” we will need this file later in step “35 below”.
+
+
+
+#26. Now go to “EMV tab” and copy “Track 2” then go back in “IST Load” and paste that “Track 2” in there, you do NOT need to fill in any other details on this page.
+
+
+
+#27. Now you will open “BP tools Cryptographic Calculator”
+
+
+
+#28. In the top tabs of this “Bp Tools Cryptographic Calculator,” you will see the “EMV” tab click on it and select “Application Cryptograms” then select “EMV 4.2” and you will see you will end up on a screen with “UDK” tab selected.
+
+
+
+#29. Now you will see options boxes for “MDK” “PAN” and “PAN Seq Nr” you will also see “UDK Derivation Option” with “Option A” and “Key Parity” with “Odd” Selected.
+
+
+
+#30. The only thing you need to change on this screen is “PAN” which obviously stands for “Primary Account Number” and you will get that from your “Track 2” so see the first 16 digit number that is also the “16 Digit Card Number.”
+
+
+
+#31. Go back to X2 2021 and in the “EMV tab” you will see the “first 16 digits of the card number” copy them and now go to the “BP tools calculator” to replace the default PAN number with “Your own PAN number” leave everything as default.
+
+
+
+#32. Now you will click on the “Green Padlock” and you will see that will add “MDK” and “UDK” inside the “output screen” on the right side.
+
+
+
+#33. Then you will click on the next tab called “Common Session Key” and without changing anything “Click the padlock” this will add more data such as “Common Session Key Derivation” and other keys in our “Output Screen”
+
+
+
+#34. Then click on the second last tab called “AAC/ARQC/TC” and hit the “Green Padlock” now this is the last step to get what we are looking for see the bottom of your “Output Screen” and you will see the “AC Generated Number” and that’s the ARQC we are looking for, so copy that number and close this “BP tool” as all the work for this is done.
+
+
+
+#35. Go back to X2 2021 in the “IST Load” tab and paste that “Ac Generated Number” from BP tools inside the “ARQC 1” box, now its time to browse the file that you saved with the “IST” extension in “Step 25” above by clicking the “Open” button.
+
+
+
+#36. Once you have the “IST File Path” + Track 2 + ARQC 1″ on this page it’s time to click on the “Burn” button.
+
+
+
+#37. Once you have done everything right you will see the “Completed Job” popup.
+
+
+
+#38. The “Java White Card” is now written and ready to go!
+
+
+
+========================================
+
+Possible Reasons your Card Failed:
+
+========================================
+
+- Bad or Fake software. MAKE SURE YOU ARE USING PXRPPS SOFTWARE PACK!
+
+- Bad Dump (Fake, Used, or Empty Balance)
+
+- Old Dump (Dumps need to be active, old card info is likely less active. ARQC changes every ATM use.)
+
+- Bad ATR / IST / Dump Type Match Up (Incorrect IST with ATR) (I.E Bank Of America Visa Credit Cards IST FILE, AND ATR must match the DUMP.)
+
+- Incompatible Blanks (Ensure that you're using the correct blanks. If you bought them for 30 cents a piece, they're not what we're looking for.)
+
+- Impatience/Bad Luck (Don't skip a single step. Cloning is a game of patience, luck and persistence.)
+
+
+
+ sum sites iykyk
+savastan0.cc 
+Briansclub.cm
+ultimateshop.mp
+bigfat.cc
+SHARKSHOP.VC
+bankomat.cc
+https://tigerccshop.ru
+fullzinfo.pw
+prozone.cc
+http://robinshop.cc/signup?ref=266496741f35e48
+chasewells.biz
+77store.me
+hgn01.ru
+@Cleopatrasshop_bot
+
+memeshop.cc
+treyshop.cc
+imperium.fo
+Spoonservices.cc
+scooby.fo
+config.atshop.io
+altsrus.com
+clutched.cc
+CANADA.FO
+
+
+https://bigmama.network (https://bigmama.network/)
+iproyal.com (http://iproyal.com/)
+922proxy.com 
+https://www.piaproxy.com/
+oxylabs.io
+
+
+Fullz and SSN Lookup:
+ssndob.org
+njssn.com
+just-kill.win
+
+Audited VPN services
+protonvpn.com
+mullvad.net
+
+Socks5 proxy
+premsocks.com
+ipburger.com
+
+ID scans and Docs
+scanlab.cc
+
+Virtual Camera
+obsproject.com
+
+Bank Statements
+freestatements.net
+
+Phone number
+sms.usmobilenumbers.com [Non VoIP]
+just-kill.win [VoIP]
+hushed.com [VoIP]
+
+Temporary Email
+inboxes.com
+
+Virtual Prepaid Card
+bitpay.com underproxy.com
